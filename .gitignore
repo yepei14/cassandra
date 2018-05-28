@@ -6,6 +6,7 @@ src/resources/org/apache/cassandra/config/
 logs/
 data/
 conf/hotspot_compiler
+conf/cassandra.yaml
 doc/cql3/CQL.html
 
 # C* debs
